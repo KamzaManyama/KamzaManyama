@@ -27,21 +27,30 @@ Here’s a snapshot of the tools and languages I work with:
 
 📂 **Projects**
 
-- **🎓 UniCentral**  
-  A centralized platform simplifying university applications for South African students, with features like interactive maps, virtual campus tours, real-time application dates, and more.  
-  _Built with React, Tailwind CSS, Node.js, Firebase_
+- **🏢 [AA Business Consultants](https://kamzamanyama.github.io/AABusiness-Consultant-/)**  
+  A modern business website for an ISO consultancy firm, showcasing professional services, certifications, and client impact. Designed for clarity, trust, and corporate presence.  
+  _Built with HTML, Tailwind CSS, and JavaScript_
 
-- **💰 Stokvel+**  
-  A transparent, secure, and modern stokvel app that empowers communities with digital savings, contributions tracking, and educational resources.  
-  _Built using React, Express, MongoDB, Firebase_
+- **🎓 [JW Saints College](https://kamzamanyama.github.io/jwsaints/)**  
+  A visually appealing and functional school website featuring course details, student resources, and a responsive layout that reflects the identity of the institution.  
+  _Built with HTML, Tailwind CSS, and JavaScript_
 
-- **🏛️ eMunicipal Bookings**  
-  A municipal booking system enabling citizens to book town halls, museums, and services digitally or offline, bridging the digital divide in local governance.  
-  _Built with HTML, CSS, JavaScript, and backend API integrations_
+- **🛍️ [Style+](https://kamzamanyama.github.io/STYLE-/)**  
+  A sleek and trendy clothing website designed for fashion-forward brands. It includes clean visuals, product displays, and a smooth user experience.  
+  _Built with HTML, Tailwind CSS, and JavaScript_
 
-- **🌐 Portfolio Website** – _Coming Soon_  
-  A personal portfolio showcasing my best work, technical skills, and a few surprises.
+- **♻️ [Waste Management App](https://kamzamanyama.github.io/pacificScraps/)**  
+  A digital solution to promote recycling and responsible waste handling. Built to showcase services, educate users, and support sustainability initiatives.  
+  _Developed with HTML, Tailwind CSS, and JavaScript_
 
+  - **🚛 [Truck Company Website](https://kamzamanyama.github.io/truck_company/)**  
+  A professional website for a trucking company, offering services like freight transport, fleet management, and logistics solutions. The site is designed for easy navigation and client engagement.  
+  _Built with HTML, Tailwind CSS, and JavaScript_
+
+- **💅 [Beauty Website](https://kamzamanyama.github.io/prjectBeauty/)**  
+  A stylish and user-friendly beauty website offering products, services, and beauty tips. The site emphasizes a visually appealing layout, product showcases, and easy navigation for customers.  
+  _Built with HTML, Tailwind CSS, and JavaScript_
+  
 ---
 
 📫 **Connect With Me**  
