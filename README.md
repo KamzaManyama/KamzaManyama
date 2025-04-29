@@ -42,7 +42,7 @@ Here’s a snapshot of the tools and languages I work with:
 - **♻️ [Waste Management App](https://kamzamanyama.github.io/pacificScraps/)**  
   A digital solution to promote recycling and responsible waste handling. Built to showcase services, educate users, and support sustainability initiatives.  
   _Developed with HTML, Tailwind CSS, and JavaScript_
-
+  
   - **🚛 [Truck Company Website](https://kamzamanyama.github.io/truck_company/)**  
   A professional website for a trucking company, offering services like freight transport, fleet management, and logistics solutions. The site is designed for easy navigation and client engagement.  
   _Built with HTML, Tailwind CSS, and JavaScript_
