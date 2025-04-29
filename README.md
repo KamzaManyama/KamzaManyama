@@ -2,7 +2,7 @@
 
 I'm **Maredi Speel Manyama**, a passionate developer and technology enthusiast committed to creating clean, functional, and scalable digital solutions. With a strong focus on usability and impact, I enjoy building web applications, integrating APIs, and exploring new technologies that drive meaningful change. 
 
-My work spans a range of socially focused areas — from university application platforms that simplify access to education, to community-centered tools like Stokvel apps that promote financial empowerment, and digital systems that improve access to municipal services. I approach every project with curiosity, purpose, and a dedication to continuous learning. I believe that great technology doesn't just solve problems — it empowers people, strengthens communities, and builds a better future.
+My work spans a range of socially focused areas from university application platforms that simplify access to education, to community-centered tools like Stokvel apps that promote financial empowerment, and digital systems that improve access to municipal services. I approach every project with curiosity, purpose, and a dedication to continuous learning. I believe that great technology doesn't just solve problems it empowers people, strengthens communities, and builds a better future.
 
 ---
 
