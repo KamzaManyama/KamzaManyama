@@ -43,12 +43,12 @@ Here’s a snapshot of the tools and languages I work with:
   A digital solution to promote recycling and responsible waste handling. Built to showcase services, educate users, and support sustainability initiatives.  
   _Developed with HTML, Tailwind CSS, and JavaScript_
   
-  - **🚛 [Truck Company Website](https://kamzamanyama.github.io/truck_company/)**  
-  A professional website for a trucking company, offering services like freight transport, fleet management, and logistics solutions. The site is designed for easy navigation and client engagement.  
-  _Built with HTML, Tailwind CSS, and JavaScript_
-
 - **💅 [Beauty Website](https://kamzamanyama.github.io/prjectBeauty/)**  
   A stylish and user-friendly beauty website offering products, services, and beauty tips. The site emphasizes a visually appealing layout, product showcases, and easy navigation for customers.  
+  _Built with HTML, Tailwind CSS, and JavaScript_
+
+  - **🚛 [Truck Company Website](https://kamzamanyama.github.io/truck_company/)**  
+  A professional website for a trucking company, offering services like freight transport, fleet management, and logistics solutions. The site is designed for easy navigation and client engagement.  
   _Built with HTML, Tailwind CSS, and JavaScript_
   
 ---
