@@ -16,8 +16,8 @@ Here’s a snapshot of the tools and languages I work with:
 
 - **Languages:** JavaScript, Python, HTML5, CSS3, Java
 - **Frameworks & Libraries:** React, Node.js, Express, Tailwind CSS, Bootstrap
-- **Databases:** MongoDB, MySQL, Firebase
-- **Tools & Platforms:** Git, GitHub, VS Code, Figma, Postman, Netlify, Vercel
+- **Databases:**  MySQL, Firebase
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman
 
 
 ## 📫 Connect With Me
