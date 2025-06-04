@@ -50,6 +50,10 @@ Here’s a snapshot of the tools and languages I work with:
 - **🚛 [Truck Company Website](https://kamzamanyama.github.io/truck_company/)**  
   A professional website for a trucking company, offering services like freight transport, fleet management, and logistics solutions. The site is designed for easy navigation and client engagement.  
   _Built with HTML, Tailwind CSS, and JavaScript_
+
+  -**🧹  [Musenga Website](https://kamzamanyama.github.io/musenga-industrial-services-site/)** 
+A responsive, professional website for Musenga, a South African company offering services in construction, waste management, and professional cleaning. Built to reflect Musenga’s mission for cleaner, safer, and more efficient environments, the site features sector-specific content, animated stats, and modern design principles.
+Tech Stack: HTML, Tailwind CSS, JavaScript
   
 ---
 
