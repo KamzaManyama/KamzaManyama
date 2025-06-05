@@ -7,12 +7,15 @@ My work spans a range of socially focused areas from university application plat
 ---
 
 🚀 **About Me**  
-💼 Currently working on: A next-level app for **FNB App of the Year 2025**  
-📚 Learning: React Native  
-🎯 Interests: Full-stack development, UI/UX design, open source, and digital innovation  
-🌍 Based in: Midrand, South Africa  
-🤝 Open to: Collaborations, freelance work, and interesting side projects  
 
+🧠 I'm a passionate and driven developer with a strong interest in creating clean, functional, and user-centered digital experiences. I thrive at the intersection of full-stack development and thoughtful UI/UX design, always aiming to build solutions that are not only technically sound but also visually polished. I value transparency, innovation, and continuous learning, and I’m constantly refining my skills to stay ahead in the fast-moving tech world. With a strong eye for design and detail, I bring ideas to life through intuitive interfaces and efficient code.
+
+🚀 About Me Highlights
+💼 Currently working on: A next-level app for FNB App of the Year 2025
+📚 Learning: React Native
+🎯 Interests: Full-stack development, UI/UX design, open source, and digital innovation
+🌍 Based in: Midrand, South Africa
+🤝 Open to: Collaborations, freelance work, and interesting side projects
 ---
 
 🛠️ **Tech Stack**  
@@ -54,6 +57,11 @@ Here’s a snapshot of the tools and languages I work with:
   -**🧹  [Musenga Website](https://kamzamanyama.github.io/musenga-industrial-services-site/)** 
 A responsive, professional website for Musenga, a South African company offering services in construction, waste management, and professional cleaning. Built to reflect Musenga’s mission for cleaner, safer, and more efficient environments, the site features sector-specific content, animated stats, and modern design principles.
 Tech Stack: HTML, Tailwind CSS, JavaScript
+
+- **💻 [Inkwazi Digital Website](#)**  
+A clean, responsive website for Inkwazi Digital, a South African branding and business consultancy offering digital marketing, company registrations, tax clearance, and more. Built to reflect Inkwazi’s professional and modern identity, the site features service-focused content, clear calls-to-action, and mobile-first design principles.  
+Tech Stack: HTML, Tailwind CSS, JavaScript
+
   
 ---
 
