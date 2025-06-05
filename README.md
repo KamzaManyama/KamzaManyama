@@ -38,7 +38,7 @@ Here’s a snapshot of the tools and languages I work with:
   A visually appealing and functional school website featuring course details, student resources, and a responsive layout that reflects the identity of the institution.  
   _Built with HTML, Tailwind CSS, and JavaScript_
 
-- **🛍️ [Style+](https://kamzamanyama.github.io/STYLE-/)**  
+- **🛍️ [Style+](https://kamzamanyama.github.io/page-coming-soon/)**  
   A sleek and trendy clothing website designed for fashion-forward brands. It includes clean visuals, product displays, and a smooth user experience.  
   _Built with HTML, Tailwind CSS, and JavaScript_
 
