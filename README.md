@@ -1,8 +1,9 @@
 # 👋 Welcome to My GitHub Profile!
 
-I'm **Maredi Speel Manyama**, a passionate full-stack developer and technology enthusiast based in **Midrand, South Africa**. I specialize in building clean, functional, and scalable digital solutions that drive meaningful impact.
+I'm **Maredi Speel Manyama**, a full-stack developer and tech enthusiast based in **Midrand, South Africa**. I’m passionate about writing clean, scalable code and building digital solutions that are purposeful and impactful.
 
-From simplifying university applications to building Stokvel apps that promote financial empowerment, my work is focused on creating tools that serve communities and foster positive change. I believe great technology empowers people, builds trust, and creates lasting value.
+I approach development with curiosity, creativity, and a commitment to continuous growth. Whether it's designing intuitive user experiences or building robust backend systems, I strive to create tech that’s both functional and meaningful — while staying true to values like transparency, community, and innovation.
+
 
 ---
 
