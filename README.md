@@ -1,73 +1,48 @@
 👋 Welcome to My GitHub Profile!
 
-I'm **Maredi Speel Manyama**, a passionate developer and technology enthusiast committed to creating clean, functional, and scalable digital solutions. With a strong focus on usability and impact, I enjoy building web applications, integrating APIs, and exploring new technologies that drive meaningful change. 
+I'm Maredi Speel Manyama, a passionate full-stack developer and technology enthusiast based in Midrand, South Africa. I specialize in building clean, functional, and scalable digital solutions that drive meaningful impact.
 
-My work spans a range of socially focused areas from university application platforms that simplify access to education, to community-centered tools like Stokvel apps that promote financial empowerment, and digital systems that improve access to municipal services. I approach every project with curiosity, purpose, and a dedication to continuous learning. I believe that great technology doesn't just solve problems it empowers people, strengthens communities, and builds a better future.
+From simplifying university applications to building Stokvel apps that promote financial empowerment, my work is focused on creating tools that serve communities and foster positive change. I believe great technology empowers people, builds trust, and creates lasting value.
 
----
+🚀 About Me
 
-🚀 **About Me**  
+💻 Developer | 🧠 Problem-Solver | 🎨 UI/UX Enthusiast
 
-🧠 I'm a passionate and driven developer with a strong interest in creating clean, functional, and user-centered digital experiences. I thrive at the intersection of full-stack development and thoughtful UI/UX design, always aiming to build solutions that are not only technically sound but also visually polished. I value transparency, innovation, and continuous learning, and I’m constantly refining my skills to stay ahead in the fast-moving tech world. With a strong eye for design and detail, I bring ideas to life through intuitive interfaces and efficient code.
+I thrive at the intersection of development and design—crafting user-centered applications that are technically sound and visually polished. I'm deeply driven by innovation, continuous learning, and creating solutions with purpose and impact.
 
-🚀 **About Me Highlights**  
-💼 Currently working on: A next-level app for FNB App of the Year 2025  
-📚 Learning: React Native  
-🎯 Interests: Full-stack development, UI/UX design, open source, and digital innovation  
-🌍 Based in: Midrand, South Africa  
-🤝 Open to: Collaborations, freelance work, and interesting side projects
+Currently working on: An entry for the FNB App of the Year 2025
+Learning: React Native
+Interests: Full-stack development, UI/UX design, open source, community-driven tech
+Open to: Freelance work, collaborations, and innovative side projects
 
----
+🛠️ Tech Stack
 
-🛠️ **Tech Stack**  
-Here’s a snapshot of the tools and languages I work with:
+Languages: JavaScript, Python, HTML5, CSS3, Java
+Frameworks/Libraries: React, Node.js, Express, Tailwind CSS, Bootstrap
+Databases: MySQL, Firebase
+Tools: Git, GitHub, VS Code, Postman
 
-**Languages:** JavaScript, Python, HTML5, CSS3, Java  
-**Frameworks & Libraries:** React, Node.js, Express, Tailwind CSS, Bootstrap  
-**Databases:** MySQL, Firebase  
-**Tools & Platforms:** Git, GitHub, VS Code, Postman  
+📂 Featured Projects
 
----
+🏢 AA Business Consultants — A modern ISO consultancy site
 
-📂 **Projects**
+🎓 JW Saints College — School website with responsive design
 
-- **🏢 [AA Business Consultants](https://kamzamanyama.github.io/AABusiness-Consultant-/)**  
-  A modern business website for an ISO consultancy firm, showcasing professional services, certifications, and client impact. Designed for clarity, trust, and corporate presence.  
-  _Built with HTML, Tailwind CSS, and JavaScript_
+🛍️ Style+ — Trendy fashion brand site
 
-- **🎓 [JW Saints College](https://kamzamanyama.github.io/jwsaints/)**  
-  A visually appealing and functional school website featuring course details, student resources, and a responsive layout that reflects the identity of the institution.  
-  _Built with HTML, Tailwind CSS, and JavaScript_
+♻️ Waste Management App — Recycling-focused digital platform
 
-- **🛍️ [Style+](https://kamzamanyama.github.io/page-coming-soon/)**  
-  A sleek and trendy clothing website designed for fashion-forward brands. It includes clean visuals, product displays, and a smooth user experience.  
-  _Built with HTML, Tailwind CSS, and JavaScript_
+💅 Beauty Website — Beauty products and services showcase
 
-- **♻️ [Waste Management App](https://kamzamanyama.github.io/pacificScraps/)**  
-  A digital solution to promote recycling and responsible waste handling. Built to showcase services, educate users, and support sustainability initiatives.  
-  _Developed with HTML, Tailwind CSS, and JavaScript_
-  
-- **💅 [Beauty Website](https://kamzamanyama.github.io/prjectBeauty/)**  
-  A stylish and user-friendly beauty website offering products, services, and beauty tips. The site emphasizes a visually appealing layout, product showcases, and easy navigation for customers.  
-  _Built with HTML, Tailwind CSS, and JavaScript_
+🚛 Truck Company Website — Logistics and freight company site
 
-- **🚛 [Truck Company Website](https://kamzamanyama.github.io/truck_company/)**  
-  A professional website for a trucking company, offering services like freight transport, fleet management, and logistics solutions. The site is designed for easy navigation and client engagement.  
-  _Built with HTML, Tailwind CSS, and JavaScript_
+🧹 Musenga Services — Industrial cleaning & construction company
 
--**🧹  [Musenga Website](https://kamzamanyama.github.io/musenga-industrial-services-site/)** 
-A responsive, professional website for Musenga, a South African company offering services in construction, waste management, and professional cleaning. Built to reflect Musenga’s mission for cleaner, safer, and more efficient environments, the site features sector-specific content, animated stats, and modern design principles.
-Tech Stack: HTML, Tailwind CSS, JavaScript
+💻 Inkwazi Digital — Branding and digital consultancy site
 
-- **💻 [Inkwazi Digital Website](https://kamzamanyama.github.io/page-coming-soon/)**  
-A clean, responsive website for Inkwazi Digital, a South African branding and business consultancy offering digital marketing, company registrations, tax clearance, and more. Built to reflect Inkwazi’s professional and modern identity, the site features service-focused content, clear calls-to-action, and mobile-first design principles.  
-Tech Stack: HTML, Tailwind CSS, JavaScript
+📫 Let’s Connect
 
-  
----
-
-📫 **Connect With Me**  
-🌐 Portfolio: **COMING SOON!!!**  
-📧 Email: [kmanyama009@gmail.com](mailto:kmanyama009@gmail.com)  
-💼 LinkedIn: [Kamogelo Manyama](https://www.linkedin.com/in/kamogelo-manyama-711269281/)
+🔗 LinkedIn: Kamogelo Manyama
+📧 Email: kmanyama009@gmail.com
+🌐 Portfolio: COMING SOON!
 
