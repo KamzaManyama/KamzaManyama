@@ -58,7 +58,7 @@ Here’s a snapshot of the tools and languages I work with:
 A responsive, professional website for Musenga, a South African company offering services in construction, waste management, and professional cleaning. Built to reflect Musenga’s mission for cleaner, safer, and more efficient environments, the site features sector-specific content, animated stats, and modern design principles.
 Tech Stack: HTML, Tailwind CSS, JavaScript
 
-- **💻 [Inkwazi Digital Website](#)**  
+- **💻 [Inkwazi Digital Website](https://kamzamanyama.github.io/page-coming-soon/)**  
 A clean, responsive website for Inkwazi Digital, a South African branding and business consultancy offering digital marketing, company registrations, tax clearance, and more. Built to reflect Inkwazi’s professional and modern identity, the site features service-focused content, clear calls-to-action, and mobile-first design principles.  
 Tech Stack: HTML, Tailwind CSS, JavaScript
 
