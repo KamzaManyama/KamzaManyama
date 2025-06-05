@@ -2,7 +2,7 @@
 
 I'm **Maredi Speel Manyama**, a full-stack developer and tech enthusiast based in **Midrand, South Africa**. I’m passionate about writing clean, scalable code and building digital solutions that are purposeful and impactful.
 
-I approach development with curiosity, creativity, and a commitment to continuous growth. Whether it's designing intuitive user experiences or building robust backend systems, I strive to create tech that’s both functional and meaningful — while staying true to values like transparency, community, and innovation.
+I approach development with curiosity, creativity, and a commitment to continuous growth. Whether it's designing intuitive user experiences or building robust backend systems, I strive to create tech that’s both functional and meaningful while staying true to values like transparency, community, and innovation.
 
 
 ---
@@ -11,7 +11,7 @@ I approach development with curiosity, creativity, and a commitment to continuou
 
 💻 Developer | 🧠 Problem-Solver | 🎨 UI/UX Enthusiast
 
-I thrive at the intersection of development and design—crafting user-centered applications that are technically sound and visually polished. I'm deeply driven by innovation, continuous learning, and creating solutions with purpose and impact.
+I thrive at the intersection of development and design crafting user-centered applications that are technically sound and visually polished. I'm deeply driven by innovation, continuous learning, and creating solutions with purpose and impact.
 
 - 💼 **Currently working on:** An entry for the **FNB App of the Year 2025**
 - 📚 **Learning:** React Native
