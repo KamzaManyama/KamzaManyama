@@ -67,7 +67,7 @@ Git, GitHub, VS Code, Postman
   Industrial cleaning & construction company  
   _Tech: HTML, Tailwind CSS, JavaScript_
 
-- **💻 [Inkwazi Digital](https://kamzamanyama.github.io/page-coming-soon/)**  
+- **💻 [Inkwazi Digital](https://kamzamanyama.github.io/Inkwazi-Digital/)**  
   Branding and digital consultancy site  
   _Tech: HTML, Tailwind CSS, JavaScript_
 
