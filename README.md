@@ -2,7 +2,7 @@
 
 I'm a passionate **Full-Stack Developer** and **Frontend Enthusiast** based in **Midrand, South Africa**. I specialize in building scalable, performant, and user-friendly web applications with clean, maintainable code.
 
-I love crafting intuitive user interfaces and seamless user experiences that solve real-world problems — all while continuously learning and growing in the world of modern web development.
+I love crafting intuitive user interfaces and seamless user experiences that solve real-world problems all while continuously learning and growing in the world of modern web development.
 
 ---
 
