@@ -31,24 +31,38 @@ I love crafting intuitive user interfaces and seamless user experiences that sol
 
 ## 📂 Featured Projects
 
-### 1. [AA Business Consultants](https://kamzamanyama.github.io/AABusiness-Consultant-/)
-A modern ISO consultancy site built with **HTML**, **Tailwind CSS**, and **JavaScript**.  
-*Features:* Responsive design, interactive UI components.
+- 🏢 **[AA Business Consultants](https://kamzamanyama.github.io/AABusiness-Consultant-/)**  
+  *A modern ISO consultancy site*  
+  _Tech: HTML, Tailwind CSS, JavaScript_
 
-### 2. [JW Saints College](https://kamzamanyama.github.io/jwsaints/)
-A responsive school website focused on accessibility and usability.  
-*Built with:* HTML, Tailwind CSS, JavaScript.
+- 🎓 **[JW Saints College](https://kamzamanyama.github.io/jwsaints/)**  
+  *School website with responsive design*  
+  _Tech: HTML, Tailwind CSS, JavaScript_
 
-### 3. [Style+](https://kamzamanyama.github.io/page-coming-soon/)
-A trendy fashion brand landing page with clean UI and engaging animations.  
-*Tech:* HTML, Tailwind CSS, JavaScript.
+- 🛍️ **[Style+](https://kamzamanyama.github.io/page-coming-soon/)**  
+  *Trendy fashion brand site*  
+  _Tech: HTML, Tailwind CSS, JavaScript_
 
-### 4. [Waste Management App](https://kamzamanyama.github.io/pacificScraps/)
-A platform promoting recycling with interactive features.  
-*Built using:* HTML, Tailwind CSS, JavaScript.
+- ♻️ **[Waste Management App](https://kamzamanyama.github.io/pacificScraps/)**  
+  *Recycling-focused digital platform*  
+  _Tech: HTML, Tailwind CSS, JavaScript_
 
-### 5. [React Frontend Sample Project](#) *(Coming Soon)*
-A React.js project demonstrating modern frontend concepts including hooks, state management, API integration, and responsive design.
+- 💅 **[Beauty Website](https://kamzamanyama.github.io/prjectBeauty/)**  
+  *Beauty products and services showcase*  
+  _Tech: HTML, Tailwind CSS, JavaScript_
+
+- 🚛 **[Truck Company Website](https://kamzamanyama.github.io/truck_company/)**  
+  *Logistics and freight company site*  
+  _Tech: HTML, Tailwind CSS, JavaScript_
+
+- 🧹 **[Musenga Services](https://kamzamanyama.github.io/musenga-industrial-services-site/)**  
+  *Industrial cleaning & construction company*  
+  _Tech: HTML, Tailwind CSS, JavaScript_
+
+- 💻 **[Inkwazi Digital](https://kamzamanyama.github.io/Inkwazi-Digital/)**  
+  *Branding and digital consultancy site*  
+  _Tech: HTML, Tailwind CSS, JavaScript_
+
 
 ---
 
