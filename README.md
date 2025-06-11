@@ -1,80 +1,100 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 Hi, I’m Maredi Speel Manyama
 
-I'm **Maredi Speel Manyama**, a full-stack developer and tech enthusiast based in **Midrand, South Africa**. I’m passionate about writing clean, scalable code and building digital solutions that are purposeful and impactful.
+I'm a passionate **Full-Stack Developer** and **Frontend Enthusiast** based in **Midrand, South Africa**. I specialize in building scalable, performant, and user-friendly web applications with clean, maintainable code.
 
-I approach development with curiosity, creativity, and a commitment to continuous growth. Whether it's designing intuitive user experiences or building robust backend systems, I strive to create tech that’s both functional and meaningful while staying true to values like transparency, community, and innovation.
-
+I love crafting intuitive user interfaces and seamless user experiences that solve real-world problems — all while continuously learning and growing in the world of modern web development.
 
 ---
 
 ## 🚀 About Me
 
-💻 Developer | 🧠 Problem-Solver | 🎨 UI/UX Enthusiast
+💻 Developer | 🎨 UI/UX Advocate | 🧠 Problem Solver | 🌍 Community-Oriented
 
-I thrive at the intersection of development and design crafting user-centered applications that are technically sound and visually polished. I'm deeply driven by innovation, continuous learning, and creating solutions with purpose and impact.
-
-- 💼 **Currently working on:** An entry for the **FNB App of the Year 2025**
-- 📚 **Learning:** React Native
-- 🎯 **Interests:** Full-stack development, UI/UX design, open source, community-driven tech
-- 🌍 **Based in:** Midrand, South Africa
-- 🤝 **Open to:** Freelance work, collaborations, and innovative side projects
+- 🔭 Currently building an innovative **entry for the FNB App of the Year 2025**  
+- 📚 Actively learning **React Native** and advancing my **React.js** skills  
+- 🎯 Focused on **Frontend Development**, **UI/UX Design**, and **Open Source Contributions**  
+- 🤝 Open to freelance work, collaboration, and exciting frontend projects  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-JavaScript, Python, HTML5, CSS3, Java  
+### Frontend
+- **Languages:** JavaScript (ES6+), HTML5, CSS3, TypeScript (learning)
+- **Frameworks & Libraries:** React.js, React Native, Tailwind CSS, Bootstrap, Redux (basic)
+- **Tools & Testing:** Git, GitHub, VS Code, Chrome DevTools, Jest (basic), ESLint, Prettier
 
-**Frameworks & Libraries:**  
-React, Node.js, Express, Tailwind CSS, Bootstrap  
-
-**Databases:**  
-MySQL, Firebase  
-
-**Tools:**  
-Git, GitHub, VS Code, Postman  
+### Backend & Databases
+- Node.js, Express.js, Firebase, MySQL
 
 ---
 
 ## 📂 Featured Projects
 
-- **🏢 [AA Business Consultants](https://kamzamanyama.github.io/AABusiness-Consultant-/)**  
-  A modern ISO consultancy site  
-  _Tech: HTML, Tailwind CSS, JavaScript_
+### 1. [AA Business Consultants](https://kamzamanyama.github.io/AABusiness-Consultant-/)
+A modern ISO consultancy site built with **HTML**, **Tailwind CSS**, and **JavaScript**.  
+*Features:* Responsive design, interactive UI components.
 
-- **🎓 [JW Saints College](https://kamzamanyama.github.io/jwsaints/)**  
-  School website with responsive design  
-  _Tech: HTML, Tailwind CSS, JavaScript_
+### 2. [JW Saints College](https://kamzamanyama.github.io/jwsaints/)
+A responsive school website focused on accessibility and usability.  
+*Built with:* HTML, Tailwind CSS, JavaScript.
 
-- **🛍️ [Style+](https://kamzamanyama.github.io/page-coming-soon/)**  
-  Trendy fashion brand site  
-  _Tech: HTML, Tailwind CSS, JavaScript_
+### 3. [Style+](https://kamzamanyama.github.io/page-coming-soon/)
+A trendy fashion brand landing page with clean UI and engaging animations.  
+*Tech:* HTML, Tailwind CSS, JavaScript.
 
-- **♻️ [Waste Management App](https://kamzamanyama.github.io/pacificScraps/)**  
-  Recycling-focused digital platform  
-  _Tech: HTML, Tailwind CSS, JavaScript_
+### 4. [Waste Management App](https://kamzamanyama.github.io/pacificScraps/)
+A platform promoting recycling with interactive features.  
+*Built using:* HTML, Tailwind CSS, JavaScript.
 
-- **💅 [Beauty Website](https://kamzamanyama.github.io/prjectBeauty/)**  
-  Beauty products and services showcase  
-  _Tech: HTML, Tailwind CSS, JavaScript_
-
-- **🚛 [Truck Company Website](https://kamzamanyama.github.io/truck_company/)**  
-  Logistics and freight company site  
-  _Tech: HTML, Tailwind CSS, JavaScript_
-
-- **🧹 [Musenga Services](https://kamzamanyama.github.io/musenga-industrial-services-site/)**  
-  Industrial cleaning & construction company  
-  _Tech: HTML, Tailwind CSS, JavaScript_
-
-- **💻 [Inkwazi Digital](https://kamzamanyama.github.io/Inkwazi-Digital/)**  
-  Branding and digital consultancy site  
-  _Tech: HTML, Tailwind CSS, JavaScript_
+### 5. [React Frontend Sample Project](#) *(Coming Soon)*
+A React.js project demonstrating modern frontend concepts including hooks, state management, API integration, and responsive design.
 
 ---
 
-## 📫 Connect With Me
+## 🌱 What I’m Learning
 
-- 🌐 **Portfolio:** COMING SOON!
-- 📧 **Email:** [kmanyama009@gmail.com](mailto:kmanyama009@gmail.com)
-- 💼 **LinkedIn:** [Kamogelo Manyama](https://www.linkedin.com/in/kamogelo-manyama-711269281/)
+- Advanced React (Hooks, Context API, Performance Optimization)  
+- React Native for cross-platform mobile development  
+- TypeScript for type-safe JavaScript  
+- Frontend Testing with Jest and React Testing Library  
+- UI/UX Design Principles & Accessibility Standards  
+
+---
+
+## 🎯 Goals
+
+- Build robust, scalable frontend applications with best practices  
+- Contribute actively to open-source projects  
+- Create impactful digital products that focus on user experience and accessibility  
+- Collaborate with like-minded developers and designers worldwide  
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: [kmanyama009@gmail.com](mailto:kmanyama009@gmail.com)  
+- 💼 LinkedIn: [Kamogelo Manyama](https://www.linkedin.com/in/kamogelo-manyama-711269281/)  
+- 🌐 Portfolio: *Coming Soon*  
+
+---
+
+## ⚡ Fun Facts
+
+- I’m a lifelong learner who believes technology can empower communities.  
+- Passionate about clean code, design aesthetics, and performance optimization.  
+- Big fan of open source and enjoy contributing to projects that make a difference.  
+
+---
+
+### ⭐ If you like my work, feel free to **star** my repos!
+
+---
+
+<!--
+Tip: Add GitHub stats and streaks badges below to make it visually appealing
+-->
+
+![Maredi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamzamanyama&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamzamanyama&layout=compact&theme=dark)
+
