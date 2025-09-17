@@ -8,8 +8,7 @@ I love crafting intuitive user interfaces and seamless user experiences that sol
 ##  About Me
 
  Developer |  UI/UX Advocate |  Problem Solver |  Community-Oriented
-
--  Currently building an innovative **entry for the FNB App of the Year 2025**  
+ 
 -  Actively learning **React Native** and advancing my **React.js** skills  
 -  Focused on **Frontend Development**, **UI/UX Design**, and **Open Source Contributions**  
 -  Open to freelance work, collaboration, and exciting frontend projects  
