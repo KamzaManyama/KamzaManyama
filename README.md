@@ -49,10 +49,6 @@ I love crafting intuitive user interfaces and seamless user experiences that sol
   *Beauty products and services showcase*  
   _Tech: HTML, Tailwind CSS, JavaScript_
 
--  **[Truck Company Website](https://kamzamanyama.github.io/truck_company/)**  
-  *Logistics and freight company site*  
-  _Tech: HTML, Tailwind CSS, JavaScript_
-
 -  **[Musenga Services](https://kamzamanyama.github.io/musenga-industrial-services-site/)**  
   *Industrial cleaning & construction company*  
   _Tech: HTML, Tailwind CSS, JavaScript_
