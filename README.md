@@ -108,4 +108,4 @@ Tip: Add GitHub stats and streaks badges below to make it visually appealing
 
 ![Maredi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamzamanyama&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamzamanyama&layout=compact&theme=dark)
-   now lets fix my git profile
+
