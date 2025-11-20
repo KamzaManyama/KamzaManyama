@@ -52,7 +52,7 @@ I love crafting intuitive user interfaces and seamless user experiences that sol
   *Branding and digital consultancy site*  
   _Tech: HTML, Tailwind CSS, JavaScript_
 
-## More projects available upon request. 
+**More projects available upon request. 
 
 ---
 
