@@ -5,7 +5,7 @@ I'm a passionate **Full-Stack Developer** and **Frontend Enthusiast** based in *
 I love crafting intuitive user interfaces and seamless user experiences that solve real-world problems all while continuously learning and growing in the world of modern web development.
 
 
-🎓 Proud TUT Alumni — Diploma in Computer Science (Tshwane University of Technology)
+🎓 Proud Alumni — Diploma in Computer Science (Tshwane University of Technology)
 
 ---
 ##  About Me
@@ -40,16 +40,8 @@ I love crafting intuitive user interfaces and seamless user experiences that sol
   *School website with responsive design*  
   _Tech: HTML, Tailwind CSS, JavaScript_
 
--  **[Style+](https://kamzamanyama.github.io/page-coming-soon/)**  
-  *Trendy fashion brand site*  
-  _Tech: HTML, Tailwind CSS, JavaScript_
-
 -  **[Waste Management App](https://kamzamanyama.github.io/pacificScraps/)**  
   *Recycling-focused digital platform*  
-  _Tech: HTML, Tailwind CSS, JavaScript_
-
--  **[Beauty Website](https://kamzamanyama.github.io/prjectBeauty/)**  
-  *Beauty products and services showcase*  
   _Tech: HTML, Tailwind CSS, JavaScript_
 
 -  **[Musenga Services](https://kamzamanyama.github.io/musenga-industrial-services-site/)**  
@@ -60,6 +52,7 @@ I love crafting intuitive user interfaces and seamless user experiences that sol
   *Branding and digital consultancy site*  
   _Tech: HTML, Tailwind CSS, JavaScript_
 
+## More projects available upon request. 
 
 ---
 
