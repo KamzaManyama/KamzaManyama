@@ -1,9 +1,14 @@
 #  Hi, I’m Maredi Speel Manyama
 
-I'm a passionate **Full-Stack Developer** and **Frontend Enthusiast** based in **Midrand, South Africa**. I specialize in building scalable, performant, and user-friendly web applications with clean, maintainable code.
+I'm a passionate Full-Stack Developer and Frontend Enthusiast based in Midrand, South Africa. I specialize in building scalable, performant, and user-friendly web applications with clean, maintainable code.
 
-I love crafting intuitive user interfaces and seamless user experiences that solve real-world problems all while continuously learning and growing in the world of modern web development.
+I love crafting intuitive user interfaces and seamless user experiences that solve real-world problems — all while continuously learning and growing in the world of modern web development.
 
+With 1 year of hands-on experience, I’ve had the privilege of working across different environments:
+
+- **6-month internship at MPHTOUI, where I strengthened my foundation in software development and real-world project execution.**
+
+- **Currently consulting at Sunbet, contributing to ongoing development, maintenance, and enhancements of enterprise-level systems.**
 
 🎓 Proud Alumni — Diploma in Computer Science (Tshwane University of Technology)
 
@@ -26,7 +31,7 @@ I love crafting intuitive user interfaces and seamless user experiences that sol
 - **Tools & Testing:** Git, GitHub, VS Code, Chrome DevTools, Jest (basic), ESLint, Prettier
 
 ### Backend & Databases
-- Node.js, Express.js, Firebase, MySQL
+- Node.js, Express.js, MySQL
 
 ---
 
