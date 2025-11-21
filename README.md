@@ -8,7 +8,7 @@ With 1 year of hands-on experience, I’ve had the privilege of working across d
 
 🎓 Proud Alumni — Diploma in Computer Science (Tshwane University of Technology)
 
----
+
 ##  About Me
 
  Developer |  UI/UX Advocate |  Problem Solver |  Community-Oriented
@@ -18,7 +18,7 @@ With 1 year of hands-on experience, I’ve had the privilege of working across d
 -  Focused on **Frontend Development**, **UI/UX Design**, and **Open Source Contributions**  
 -  Open to freelance work, collaboration, and exciting frontend projects  
 
----
+
 
 ## 💼 Work Experience
 
@@ -29,7 +29,7 @@ With 1 year of hands-on experience, I’ve had the privilege of working across d
 - Worked on debugging, testing, and UI improvements  
 - Gained hands-on experience in real-world software development practices  
 
----
+
 
 ### **Software Development Consultant — Sunbet**  
 **📅 Duration:** Current  
