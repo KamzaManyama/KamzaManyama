@@ -27,7 +27,7 @@ With 1 year of hands-on experience, I’ve had the privilege of working across d
 ##  Tech Stack
 
 ### Frontend
-- **Languages:** JavaScript (ES6+), HTML5, CSS3, TypeScript (learning)
+- **Languages:** JavaScript (ES6+), HTML5, CSS3, TypeScript (learning), webflow
 - **Frameworks & Libraries:** React.js, React Native, Tailwind CSS, Bootstrap, Redux (basic)
 - **Tools & Testing:** Git, GitHub, VS Code, Chrome DevTools, Jest (basic), ESLint, Prettier
 
