@@ -8,11 +8,11 @@ With 1 year of hands-on experience, I’ve had the privilege of working across d
 
 **💼Work Experience**
 
-- **Software Development Consultant — Sunbet (Current)
-Maintaining enterprise-level systems, implementing new features, improving performance, and delivering reliable production-ready code.**
+- **Software Developer Intern — MPHOTI Consulting (6 Months)**
+Strengthened frontend engineering, debugging, system testing, and real-world development practices.
 
-- **Software Developer Intern — MPHOTI Consulting (6 Months)
-Strengthened frontend engineering, debugging, system testing, and real-world development practices.**
+- **Software Development Consultant — Sunbet (Current)**
+Maintaining enterprise-level systems, implementing new features, improving performance, and delivering reliable production-ready code.
 
 🎓 Proud Alumni — Diploma in Computer Science (Tshwane University of Technology)
 
