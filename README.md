@@ -20,7 +20,7 @@ With 1 year of hands-on experience, I’ve had the privilege of working across d
 
 
 
-## 💼 Work Experience
+##  Work Experience
 
 ### **Software Developer Intern — MPHOTI Consulting**  
 **📅 Duration:** 6 Months  
