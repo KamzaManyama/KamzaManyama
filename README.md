@@ -40,14 +40,6 @@ I love crafting intuitive user interfaces and seamless user experiences that sol
   *School website with responsive design*  
   _Tech: HTML, Tailwind CSS, JavaScript_
 
--  **[Waste Management App](https://kamzamanyama.github.io/pacificScraps/)**  
-  *Recycling-focused digital platform*  
-  _Tech: HTML, Tailwind CSS, JavaScript_
-
--  **[Musenga Services](https://kamzamanyama.github.io/musenga-industrial-services-site/)**  
-  *Industrial cleaning & construction company*  
-  _Tech: HTML, Tailwind CSS, JavaScript_
-
 -  **[Inkwazi Digital](https://kamzamanyama.github.io/Inkwazi-Digital/)**  
   *Branding and digital consultancy site*  
   _Tech: HTML, Tailwind CSS, JavaScript_
