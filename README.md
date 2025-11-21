@@ -6,14 +6,6 @@ I love crafting intuitive user interfaces and seamless user experiences that sol
 
 With 1 year of hands-on experience, I’ve had the privilege of working across different environments:
 
-**💼Work Experience**
-
-- **Software Developer Intern — MPHOTI Consulting (6 Months)**
-Strengthened frontend engineering, debugging, system testing, and real-world development practices.
-
-- **Software Development Consultant — Sunbet (Current)**
-Maintaining enterprise-level systems, implementing new features, improving performance, and delivering reliable production-ready code.
-
 🎓 Proud Alumni — Diploma in Computer Science (Tshwane University of Technology)
 
 ---
@@ -27,6 +19,26 @@ Maintaining enterprise-level systems, implementing new features, improving perfo
 -  Open to freelance work, collaboration, and exciting frontend projects  
 
 ---
+
+## 💼 Work Experience
+
+### **Software Developer Intern — MPHOTI Consulting**  
+**📅 Duration:** 6 Months  
+
+- Strengthened frontend engineering fundamentals  
+- Worked on debugging, testing, and UI improvements  
+- Gained hands-on experience in real-world software development practices  
+
+---
+
+### **Software Development Consultant — Sunbet**  
+**📅 Duration:** Current  
+
+- Maintaining enterprise-level production systems  
+- Implementing new features and enhancements  
+- Improving system performance and ensuring application reliability  
+- Collaborating in an agile environment to deliver high-quality solutions  
+
 
 ##  Tech Stack
 
