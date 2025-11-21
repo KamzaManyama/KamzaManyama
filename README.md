@@ -6,7 +6,7 @@ I love crafting intuitive user interfaces and seamless user experiences that sol
 
 With 1 year of hands-on experience, I’ve had the privilege of working across different environments:
 
-- **6-month internship at MPHTOUI, where I strengthened my foundation in software development and real-world project execution.**
+- **6-month internship at MPHOTI CONSULTING, where I strengthened my foundation in software development and real-world project execution.**
 
 - **Currently consulting at Sunbet, contributing to ongoing development, maintenance, and enhancements of enterprise-level systems.**
 
