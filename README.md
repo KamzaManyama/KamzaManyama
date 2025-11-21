@@ -17,7 +17,8 @@ With 1 year of hands-on experience, I’ve had the privilege of working across d
 
  Developer |  UI/UX Advocate |  Problem Solver |  Community-Oriented
  
--  Actively learning **React Native** and advancing my **React.js** skills  
+-  Actively learning **React Native** and advancing my **React.js** skills
+-  Exploring product testing and performance optimization   
 -  Focused on **Frontend Development**, **UI/UX Design**, and **Open Source Contributions**  
 -  Open to freelance work, collaboration, and exciting frontend projects  
 
