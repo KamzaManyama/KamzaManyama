@@ -9,7 +9,7 @@ With 1 year of hands-on experience, I’ve had the privilege of working across d
 
 ##  About Me
 
- Developer |  UI/UX Advocate |  Problem Solver |  Community-Oriented
+ Developer |  UI/UX Advocate |  Problem Solver |  Community-Oriented | SEO Author 
  
 -  Actively learning **React Native** and advancing my **React.js** skills
 -  Exploring product testing and performance optimization   
