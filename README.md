@@ -30,7 +30,7 @@ With 1 year of hands-on experience, I’ve had the privilege of working across d
 
 
 ### **Software Development Consultant — Sunbet**  
-**📅 Duration:** Current  
+**📅 Duration:** 1 year 2 months  
 
 - Maintaining enterprise-level production systems  
 - Implementing new features and enhancements  
