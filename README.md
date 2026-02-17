@@ -38,7 +38,7 @@ With 1 year of hands-on experience, I’ve had the privilege of working across d
 - Collaborating in an agile environment to deliver high-quality solutions
 
 
-## **Software Developer & SEO Content Author — PantherBet** 
+### **Software Developer & SEO Content Author — PantherBet** 
 **📅 Duration:** Present  
 
 - Developing and maintaining production systems for **PantherBet (game.pantherbet.co.za)**  
