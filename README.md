@@ -103,14 +103,5 @@ With 1 year of hands-on experience, I’ve had the privilege of working across d
 
 ---
 
-###  If you like my work, feel free to **star** my repos!
 
----
-
-<!--
-Tip: Add GitHub stats and streaks badges below to make it visually appealing
--->
-
-![Maredi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamzamanyama&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamzamanyama&layout=compact&theme=dark)
 
