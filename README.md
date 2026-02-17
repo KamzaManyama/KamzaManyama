@@ -35,7 +35,19 @@ With 1 year of hands-on experience, I’ve had the privilege of working across d
 - Maintaining enterprise-level production systems  
 - Implementing new features and enhancements  
 - Improving system performance and ensuring application reliability  
-- Collaborating in an agile environment to deliver high-quality solutions  
+- Collaborating in an agile environment to deliver high-quality solutions
+
+
+## Software Developer & SEO Content Author — PantherBet  
+**Duration:** Present  
+
+- Developing and maintaining production systems for **PantherBet (game.pantherbet.co.za)**  
+- Building and enhancing core platform features to improve performance and user experience  
+- Optimizing front-end and back-end functionality to ensure reliability and scalability  
+- Implementing and managing SEO strategies, including authoring optimized content and metadata per page  
+- Structuring dynamic SEO handlers to ensure accurate, page-specific rendering  
+- Collaborating in an agile, fast-paced betting environment to deliver high-quality, conversion-focused solutions  
+
 
 
 ##  Tech Stack
