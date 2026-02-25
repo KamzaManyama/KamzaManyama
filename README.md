@@ -41,8 +41,6 @@ With 1 year of hands-on experience, I’ve had the privilege of working across d
 ### Software Developer & SEO Content Author — PantherBet  
 **📅 Duration:** Present  
 
-- Developing and maintaining production systems for PantherBet (game.pantherbet.co.za)  
-- Building, optimizing, and scaling front-end and back-end platform features  
 - Structuring and implementing dynamic SEO handlers for accurate, page-specific metadata rendering  
 - Authoring and managing SEO-optimized content, including titles, meta descriptions, and structured data  
 - Improving technical SEO performance, indexing, and search visibility  
