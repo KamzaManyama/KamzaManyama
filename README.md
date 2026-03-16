@@ -72,9 +72,10 @@ With 1 year of hands-on experience, I’ve had the privilege of working across d
   *School website with responsive design*  
   _Tech: HTML, Tailwind CSS, JavaScript_
 
--  **[Inkwazi Digital](https://kamzamanyama.github.io/Inkwazi-Digital/)**  
-  *Branding and digital consultancy site*  
-  _Tech: HTML, Tailwind CSS, JavaScript_
+-  **[TC Van de Merwe](https://tc-van-de-merwe.onrender.com/)**  
+*Trucking services website*  
+_A platform showcasing TC Van de Merwe’s fleet, logistics services, and contact options for freight bookings._  
+_Tech: HTML, CSS, JavaScript_
 
 - **More projects available upon request.**
 
