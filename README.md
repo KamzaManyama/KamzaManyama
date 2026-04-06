@@ -77,11 +77,6 @@ With 1 year of hands-on experience, I’ve had the privilege of working across d
 _A platform showcasing TC Van de Merwe’s fleet, logistics services, and contact options for freight bookings._  
 _Tech: HTML, CSS, JavaScript_
 
--  **[ServiceBill Pro](https://servicebillpro.co.za/)**  
-  *A FinTech solution built for SMEs to simplify billing, invoicing, and business management.*  
-  _It replaces inefficient spreadsheet workflows with smart invoicing, client management, time tracking, and business insights — helping businesses reduce admin and focus on growth._
-
-- **More projects available upon request.**
 
 ---
 
