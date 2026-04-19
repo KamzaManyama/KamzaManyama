@@ -80,8 +80,8 @@ _Tech: HTML, CSS, JavaScript_
 
 -  **[Invoice Ingest](https://kamzamanyama.github.io/invoice-ingest/)**
 *Supplier invoice processing dashboard*
-*A full-stack web app that ingests supplier CSV invoices, validates South African VAT rules, deduplicates records, persists to MySQL, and sends Gmail alert emails after every run.*
-*Tech: HTML, Tailwind CSS, Node.js, Express, MySQL*
+_*A full-stack web app that ingests supplier CSV invoices, validates South African VAT rules, deduplicates records, persists to MySQL, and sends Gmail alert emails after every run.*
+_*Tech: HTML, Tailwind CSS, Node.js, Express, MySQL*
 
 ---
 
