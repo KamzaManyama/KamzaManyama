@@ -78,7 +78,7 @@ _A platform showcasing TC Van de Merwe’s fleet, logistics services, and contac
 _Tech: HTML, CSS, JavaScript_
 
 
-**[Invoice Ingest](https://kamzamanyama.github.io/invoice-ingest/)**
+-  **[Invoice Ingest](https://kamzamanyama.github.io/invoice-ingest/)**
 *Supplier invoice processing dashboard*
 *A full-stack web app that ingests supplier CSV invoices, validates South African VAT rules, deduplicates records, persists to MySQL, and sends Gmail alert emails after every run.*
 *Tech: HTML, Tailwind CSS, Node.js, Express, MySQL*
