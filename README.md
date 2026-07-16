@@ -1,124 +1,278 @@
-#  Hi, I’m Maredi Speel Manyama
+# Hi 👋, I'm Maredi Speel Manyama
 
-I'm a passionate Full-Stack Developer and Frontend Enthusiast based in Midrand, South Africa. I specialize in building scalable, performant, and user-friendly web applications with clean, maintainable code.
-I love crafting intuitive user interfaces and seamless user experiences that solve real-world problems all while continuously learning and growing in the world of modern web development.
-With 1 year of hands-on experience, I’ve had the privilege of working across different environments:
+## Full-Stack Developer | Frontend Engineer | QA Automation Enthusiast
 
-🎓 Proud Alumni — Diploma in Computer Science (Tshwane University of Technology)
+I'm a passionate **Full-Stack Developer** and **Frontend Enthusiast** based in **Midrand, South Africa**. I enjoy building scalable, performant, and user-friendly web applications with clean, maintainable code.
 
+My passion lies in crafting intuitive user interfaces, delivering seamless user experiences, and solving real-world problems through technology. I'm constantly learning, improving my skills, and exploring modern software engineering practices.
 
-##  About Me
+With over **1 year of professional experience**, I've worked across software development, quality assurance, automation testing, and SEO engineering.
 
- Developer |  UI/UX Advocate |  Problem Solver |  Community-Oriented | SEO Author 
- 
--  Actively learning **React Native** and advancing my **React.js** skills
--  Exploring product testing and performance optimization   
--  Focused on **Frontend Development**, **UI/UX Design**, and **Open Source Contributions**  
--  Open to freelance work, collaboration, and exciting frontend projects  
-
-
-
-##  Work Experience
-
-### **Software Developer Intern — MPHOTI Consulting**  
-**📅 Duration:** 6 Months  
-
-- Strengthened frontend engineering fundamentals  
-- Worked on debugging, testing, and UI improvements  
-- Gained hands-on experience in real-world software development practices  
-
-
-
-### **Software Development Consultant — Sunbet**  
-**📅 Duration:** 1 year 2 months  
-
-- Maintaining enterprise-level production systems  
-- Implementing new features and enhancements  
-- Improving system performance and ensuring application reliability  
-- Collaborating in an agile environment to deliver high-quality solutions
-
-
-### Software Developer & SEO Content Author — PantherBet  
-**📅 Duration:** Present  
-
-- Structuring and implementing dynamic SEO handlers for accurate, page-specific metadata rendering  
-- Authoring and managing SEO-optimized content, including titles, meta descriptions, and structured data  
-- Improving technical SEO performance, indexing, and search visibility  
-- Ensuring system reliability, performance, and scalability in a high-traffic betting environment  
-- Collaborating within an agile team to deliver secure, high-quality, conversion-focused solutions  
- 
-
-
-
-##  Tech Stack
-
-### Frontend
-- **Languages:** JavaScript (ES6+), HTML5, CSS3, TypeScript (learning), webflow
-- **Frameworks & Libraries:** React.js, React Native, Tailwind CSS, Bootstrap, Redux (basic)
-- **Tools & Testing:** Git, GitHub, VS Code, Chrome DevTools, Jest (basic), ESLint, Prettier
-
-### Backend & Databases
-- Node.js, Express.js, MySQL
+🎓 **Diploma in Computer Science** — Tshwane University of Technology
 
 ---
 
-##  Featured Projects
+## 🚀 About Me
 
--  **[AA Business Consultants](https://kamzamanyama.github.io/AABusiness-Consultant-/)**  
-  *A modern ISO consultancy site*  
-  _Tech: HTML, Tailwind CSS, JavaScript_
-
--  **[JW Saints College](https://kamzamanyama.github.io/jwsaints/)**  
-  *School website with responsive design*  
-  _Tech: HTML, Tailwind CSS, JavaScript_
-
--  **[TC Van de Merwe](https://tc-van-de-merwe.onrender.com/)**  
-*Trucking services website*  
-_A platform showcasing TC Van de Merwe’s fleet, logistics services, and contact options for freight bookings._  
-_Tech: HTML, CSS, JavaScript_
-
-
--  **[Invoice Ingest](https://kamzamanyama.github.io/invoice-ingest/)**
-*Supplier invoice processing dashboard*
- _A full-stack web app that ingests supplier CSV invoices, validates South African VAT rules, deduplicates records, persists to MySQL, and sends Gmail alert emails after every run.*
-  _Tech: HTML, Tailwind CSS, Node.js, Express, MySQL*
+- 💻 Full-Stack Developer
+- 🎨 Frontend Engineer & UI/UX Advocate
+- 🧪 Manual & Automation Tester
+- 🌱 Currently learning **React Native**, **TypeScript**, and advanced **React.js**
+- ⚡ Passionate about performance optimization and clean architecture
+- 🤝 Open to freelance opportunities, collaborations, and open-source contributions
 
 ---
 
-##  What I’m Learning
+# 💼 Professional Experience
 
-- Advanced React (Hooks, Context API, Performance Optimization)  
-- React Native for cross-platform mobile development  
-- TypeScript for type-safe JavaScript  
-- Frontend Testing with Jest and React Testing Library  
-- UI/UX Design Principles & Accessibility Standards  
+## Software Developer Intern
+### MPHOTI Consulting
 
----
+**Duration:** 6 Months
 
-##  Goals
+#### Responsibilities
 
-- Build robust, scalable frontend applications with best practices  
-- Contribute actively to open-source projects  
-- Create impactful digital products that focus on user experience and accessibility  
-- Collaborate with like-minded developers and designers worldwide  
+- Strengthened frontend engineering fundamentals
+- Debugged production issues and implemented UI improvements
+- Participated in software testing and quality assurance
+- Worked in an Agile development environment
+- Collaborated with developers to deliver production-ready features
 
 ---
 
-##  How to Reach Me
+## Manual Tester & Playwright Automation Tester
+### E4 Strategis
 
--  Email: [kmanyama009@gmail.com](mailto:kmanyama009@gmail.com)  
--  LinkedIn: [Kamogelo Manyama](https://www.linkedin.com/in/maredi-manyama-711269281/)  
--  Portfolio: *Coming Soon*  
+**Duration:** _(Add your employment period)_
+
+#### Responsibilities
+
+- Performed comprehensive manual testing across web applications
+- Designed and executed functional, regression, smoke, and exploratory test cases
+- Developed and maintained end-to-end automation tests using **Playwright**
+- Identified, documented, and tracked software defects
+- Collaborated closely with developers to resolve bugs efficiently
+- Assisted in improving software quality through automated regression testing
+- Participated in sprint planning, testing cycles, and Agile ceremonies
+- Validated application functionality across multiple browsers and devices
+
+**Technologies Used**
+
+- Playwright
+- JavaScript / TypeScript
+- Git
+- Azure DevOps / Jira *(if applicable)*
 
 ---
 
-##  Fun Facts
+## Software Development Consultant
+### Sunbet
 
-- I’m a lifelong learner who believes technology can empower communities.  
-- Passionate about clean code, design aesthetics, and performance optimization.  
-- Big fan of open source and enjoy contributing to projects that make a difference.  
+**Duration:** 1 Year 2 Months
+
+#### Responsibilities
+
+- Maintained enterprise-level production applications
+- Implemented new features and enhancements
+- Improved application performance and reliability
+- Fixed production bugs and optimized frontend experiences
+- Collaborated with cross-functional Agile teams
+- Assisted in deploying production-ready solutions
 
 ---
 
+## Software Developer & SEO Content Author
+### PantherBet
 
+**Duration:** Present
 
+#### Responsibilities
+
+- Built dynamic SEO handlers for accurate metadata rendering
+- Authored SEO-optimized content and structured data
+- Improved technical SEO and indexing performance
+- Enhanced website performance and search visibility
+- Collaborated with development teams to build scalable solutions
+- Maintained high-performance production systems
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
+
+### Languages
+
+- JavaScript (ES6+)
+- TypeScript *(Learning)*
+- HTML5
+- CSS3
+
+### Frameworks & Libraries
+
+- React.js
+- React Native *(Learning)*
+- Tailwind CSS
+- Bootstrap
+- Redux (Basic)
+
+### Testing
+
+- Playwright
+- Jest (Basic)
+- Manual Testing
+- Chrome DevTools
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- ESLint
+- Prettier
+- Webflow
+
+---
+
+## Backend
+
+- Node.js
+- Express.js
+
+---
+
+## Database
+
+- MySQL
+
+---
+
+# 🚀 Featured Projects
+
+## AA Business Consultants
+
+🔗 https://kamzamanyama.github.io/AABusiness-Consultant-/
+
+Modern ISO consultancy website.
+
+**Tech Stack**
+
+- HTML5
+- Tailwind CSS
+- JavaScript
+
+---
+
+## JW Saints College
+
+🔗 https://kamzamanyama.github.io/jwsaints/
+
+Responsive educational institution website.
+
+**Tech Stack**
+
+- HTML5
+- Tailwind CSS
+- JavaScript
+
+---
+
+## TC Van de Merwe
+
+🔗 https://tc-van-de-merwe.onrender.com/
+
+A trucking and logistics platform showcasing fleet services and freight booking options.
+
+**Tech Stack**
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## Invoice Ingest
+
+🔗 https://kamzamanyama.github.io/invoice-ingest/
+
+A full-stack supplier invoice processing dashboard that:
+
+- Imports supplier CSV invoices
+- Validates South African VAT rules
+- Removes duplicate records
+- Stores data in MySQL
+- Sends automated Gmail notifications after processing
+
+**Tech Stack**
+
+- HTML
+- Tailwind CSS
+- Node.js
+- Express.js
+- MySQL
+
+---
+
+# 📚 Currently Learning
+
+- Advanced React.js
+- React Native
+- TypeScript
+- Playwright Advanced Automation
+- Jest & React Testing Library
+- Accessibility (WCAG)
+- UI/UX Principles
+- Performance Optimization
+
+---
+
+# 🎯 Career Goals
+
+- Build scalable frontend applications
+- Master full-stack engineering
+- Become an expert in test automation
+- Contribute to open-source projects
+- Create impactful digital products
+- Build software that improves people's lives
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+kmanyama009@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/maredi-manyama-711269281/
+
+🌐 **Portfolio**
+
+Coming Soon...
+
+---
+
+# ⚡ Fun Facts
+
+- 💡 Lifelong learner passionate about technology
+- 🎨 Enjoy designing clean, modern user interfaces
+- 🚀 Love solving complex software problems
+- 🌍 Believe technology can empower communities
+- ❤️ Open-source enthusiast
+- ☕ Powered by coffee and curiosity
+
+---
+
+## 📊 GitHub Stats
+
+<!-- GitHub Readme Stats -->
+<!-- Add your preferred GitHub stats cards here -->
+
+---
+
+## 🤝 Let's Build Something Amazing Together!
+
+If you're looking for someone passionate about software development, frontend engineering, automation testing, and building great user experiences, feel free to connect with me!
+
+⭐ Don't forget to check out my repositories!
