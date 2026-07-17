@@ -6,6 +6,8 @@
 
 Midrand, South Africa
 
+</div>
+
 ---
 
 ## Profile
