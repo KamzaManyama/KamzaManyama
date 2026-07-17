@@ -6,8 +6,6 @@
 
 Midrand, South Africa
 
-</div>
-
 ---
 
 ## Profile
@@ -20,7 +18,7 @@ I care about clean architecture, intuitive interfaces, and software that holds u
 
 ## Snapshot
 
-- 2+ year of professional experience across software development, QA automation, and technical SEO
+- 1+ year of professional experience across software development, QA automation, and technical SEO
 - Diploma in Computer Science, Tshwane University of Technology
 - Currently advancing an Advanced Diploma in Computer Science (TUT), covering Data Structures & Algorithms, Software Engineering, HCI, and Distributed Programming
 - Active across frontend engineering, full-stack development, and Playwright test automation on production systems
@@ -42,6 +40,8 @@ I care about clean architecture, intuitive interfaces, and software that holds u
 ## Tech Stack & Competency
 
 Ratings reflect hands-on production use across the roles and projects above (scale: 3 = Proficient · 4 = Advanced · 5 = Expert).
+
+Rather than list tools I've simply been exposed to, the tables below score each skill against how much real production weight it's actually carried — time spent, the complexity of the systems it was used in, and whether it was core to delivery or a supporting tool. Frontend and QA automation sit highest because they've been the backbone of every role so far; backend, database, and SEO are strong and improving with each project; and anything still building toward that bar is called out honestly rather than inflated.
 
 **Frontend**
 
@@ -109,6 +109,8 @@ Full-stack supplier invoice processing dashboard that ingests CSVs, validates So
 
 **Market relevance:** Directly addresses a real operational pain point for South African SMEs and finance teams — manual, error-prone invoice reconciliation — with built-in compliance for local VAT rules, a gap most generic invoicing tools don't cover.
 
+**Why I built it:** I wanted a full-stack project that went beyond CRUD and forced me to work with real business rules — South African VAT logic, deduplication, and automated notifications — the kind of constraints I'd actually face on a client engagement.
+
 `HTML` `Tailwind CSS` `Node.js` `Express.js` `MySQL` `Gmail API`
 
 [View Project](https://kamzamanyama.github.io/invoice-ingest/)
@@ -119,6 +121,8 @@ Full-stack supplier invoice processing dashboard that ingests CSVs, validates So
 Clean, responsive website for an ISO consultancy, built to communicate services clearly and build trust with prospective clients.
 
 **Market relevance:** Targets the compliance and certification consulting space, where credibility and clarity of service offering directly influence lead conversion — the design choices are commercially driven, not just aesthetic.
+
+**Why I built it:** I wanted to practice designing for trust rather than just function — a consultancy site lives or dies on whether a visitor believes the business is credible within seconds, and that's a different design problem than a typical product landing page.
 
 `HTML5` `Tailwind CSS` `JavaScript`
 
@@ -131,6 +135,8 @@ Professional trucking and logistics platform showcasing fleet services and freig
 
 **Market relevance:** Serves the logistics and freight sector, where clients evaluate providers on visible fleet capacity and ease of booking — the site is structured to shorten that decision path.
 
+**Why I built it:** Logistics is an industry I hadn't designed for before, and I wanted the challenge of presenting a fairly technical, operations-heavy business in a way that's simple and credible to a non-technical client.
+
 `HTML` `CSS` `JavaScript`
 
 [View Project](https://tc-van-de-merwe.onrender.com/)
@@ -141,6 +147,8 @@ Professional trucking and logistics platform showcasing fleet services and freig
 Fully responsive educational institution website supporting students, parents, and staff.
 
 **Market relevance:** Built for an audience with mixed technical literacy and device access, prioritising accessibility and smooth navigation over visual complexity — a common requirement in the education sector.
+
+**Why I built it:** I wanted hands-on experience designing for a genuinely mixed audience — students, parents, and staff with very different needs on one site — which pushed me to prioritise clarity and accessibility over flashy UI.
 
 `HTML5` `Tailwind CSS` `JavaScript`
 
