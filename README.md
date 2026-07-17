@@ -20,7 +20,7 @@ I care about clean architecture, intuitive interfaces, and software that holds u
 
 ## Snapshot
 
-- 1+ year of professional experience across software development, QA automation, and technical SEO
+- 3+ year of professional experience across software development, QA automation, and technical SEO
 - Diploma in Computer Science, Tshwane University of Technology
 - Currently advancing an Advanced Diploma in Computer Science (TUT), covering Data Structures & Algorithms, Software Engineering, HCI, and Distributed Programming
 - Active across frontend engineering, full-stack development, and Playwright test automation on production systems
